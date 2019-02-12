@@ -1,10 +1,11 @@
 .idea/
 *.iml
 #*.json
-node_modules/
+rebel.xml
 
-src/main/webapp/app
-src/main/webapp/index.html
+node/
+node_modules/
+administration-web/src/main/web/dist
 
 ### Maven template
 target/
